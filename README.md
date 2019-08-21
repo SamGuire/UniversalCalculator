@@ -1,3 +1,3 @@
 # UniversalCalculator
 
-Calculator that can evaluate equations, plot polynomials, Solve matrices and integrate function.
+Calculator that can evaluate equations, plot polynomials, solve matrices and integrate function.
